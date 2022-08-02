@@ -1,11 +1,11 @@
 {
-    "name": "3D Portfolio",
-    "short_name": "3D Portfolio",
+    "name": "Kevin's Immersive Portfolio",
+    "short_name": "Kevin's Immersive Portfolio",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "Kevin's 3D Portfolio",
+    "description": "Kevin's Immersive Portfolio",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
