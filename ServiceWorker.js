@@ -1,4 +1,4 @@
-const cacheName = "Kevin Hsu-Kevin's Immersive Portfolio-0.1";
+const cacheName = "Kevin Hsu-Kevin's Immersive Portfolio-0.2";
 const contentToCache = [
     "Build/WebTest.loader.js",
     "Build/WebTest.framework.js",
